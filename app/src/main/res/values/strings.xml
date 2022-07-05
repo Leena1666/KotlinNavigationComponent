@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KTNavigationComponent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">My Home Fragment</string>
+    <string name="second">My Second Fragment</string>
+    <string name="third">My Third Fragment</string>
+</resources>
